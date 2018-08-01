@@ -10,6 +10,8 @@ This applet allows you to automatically save your PaintTool SAI projects at a gi
 
 3. Double click on the downloaded file and ignore any security warnings you might see. This is completely normal!
 
+**Note:** On first run, you might see a pop-up saying "Windows protected your PC". In order to run the app, click on **More info** and select **Run anyway**.
+
 4. Select your preferred save interval (minutes) and click on the **Apply** button.
 
 5. Click on the X to minimize the applet to the notification area.
