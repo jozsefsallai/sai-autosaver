@@ -16,7 +16,7 @@ This applet allows you to automatically save your PaintTool SAI projects at a gi
 
 To change the interval, just double-click on the app's icon in the notification area.
 
-To close the autosaver, just right-click on the app's icon in the notificationara and select **Close**. *(Note: the applet will automatically close once you close PaintTool SAI).*
+To close the autosaver, just right-click on the app's icon in the notification area and select **Close**. *(Note: the applet will automatically close once you close PaintTool SAI).*
 
 ## Frequently Asked Questions
 
@@ -32,6 +32,10 @@ The program sends a `CTRL+S` key combination to SAI when it's the active window.
 
  * Although the applet is supposed to forcefully run as an administrator, make sure that is the case.
  * The applet only performs the save when SAI is the active window. If you're on another window while the applet is supposed to perform the save, it will not do anything until the next saving cycle.
+
+**Is there any way of placing the applet launcher on the desktop without having the config file appear too?**
+
+Just create a desktop shortcut (Right-click on the executable » Send to » Desktop).
 
 **Found a bug! Where can I report it?**
 
